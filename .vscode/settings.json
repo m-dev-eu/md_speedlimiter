@@ -1,0 +1,21 @@
+{
+    "Lua.diagnostics.globals": [
+        "fx_version",
+        "games",
+        "use_experimental_fxv2_oal",
+        "lua54",
+        "author",
+        "description",
+        "version",
+        "dependencies",
+        "shared_script",
+        "client_script",
+        "server_script",
+        "shared_scripts",
+        "client_scripts",
+        "server_scripts",
+        "file",
+        "files",
+        "ESX"
+    ]
+}
