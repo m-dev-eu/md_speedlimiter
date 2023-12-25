@@ -1,4 +1,4 @@
-if not lib then 
+if not lib then
     error('ox_lib required')
 end
 
