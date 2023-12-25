@@ -9,6 +9,10 @@ description 'Template System'
 version 'Development Build'
 
 -- Manifest
+dependencies {
+    'ox_lib'
+}
+
 shared_script 'config.lua'
 
 client_script 'client.lua'
