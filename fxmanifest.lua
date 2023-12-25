@@ -9,6 +9,11 @@ description 'Limits the speed of vehicles'
 version '1.0'
 
 -- Manifest
+escrow_ignore {
+    'config.lua',
+    'client.lua'
+}
+
 dependencies {
     'ox_lib'
 }
